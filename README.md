@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Pedro Augusto</h1>
 <h3 align="center">Analista de sistemas com 6 anos de experiência profissional.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
